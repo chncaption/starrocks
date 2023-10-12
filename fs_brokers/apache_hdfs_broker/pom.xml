@@ -38,10 +38,10 @@ under the License.
         <maven.compiler.target>1.8</maven.compiler.target>
         <hadoop.version>3.2.3</hadoop.version>
         <guava.version>30.1.1-jre</guava.version>
-        <zookeeper.version>3.4.14</zookeeper.version>
+        <zookeeper.version>3.7.2</zookeeper.version>
         <protobuf.version>3.16.1</protobuf.version>
         <thrift.version>0.14.1</thrift.version>
-        <tomcat.version>8.5.70</tomcat.version>
+        <tomcat.version>8.5.94</tomcat.version>
         <log4j.version>2.17.1</log4j.version>
         <jackson.version>2.12.6</jackson.version>
     </properties>
@@ -459,7 +459,7 @@ under the License.
                                         </goals>
                                     </pluginExecutionFilter>
                                     <action>
-                                        <ignore></ignore>
+                                        <ignore/>
                                     </action>
                                 </pluginExecution>
 
@@ -473,7 +473,7 @@ under the License.
                                         </goals>
                                     </pluginExecutionFilter>
                                     <action>
-                                        <ignore></ignore>
+                                        <ignore/>
                                     </action>
                                 </pluginExecution>
 
@@ -487,7 +487,7 @@ under the License.
                                         </goals>
                                     </pluginExecutionFilter>
                                     <action>
-                                        <ignore></ignore>
+                                        <ignore/>
                                     </action>
                                 </pluginExecution>
 
@@ -501,7 +501,7 @@ under the License.
                                         </goals>
                                     </pluginExecutionFilter>
                                     <action>
-                                        <ignore></ignore>
+                                        <ignore/>
                                     </action>
                                 </pluginExecution>
 
@@ -516,7 +516,7 @@ under the License.
                                         </goals>
                                     </pluginExecutionFilter>
                                     <action>
-                                        <ignore></ignore>
+                                        <ignore/>
                                     </action>
                                 </pluginExecution>
 
@@ -531,7 +531,7 @@ under the License.
                                         </goals>
                                     </pluginExecutionFilter>
                                     <action>
-                                        <ignore></ignore>
+                                        <ignore/>
                                     </action>
                                 </pluginExecution>
                             </pluginExecutions>
