@@ -43,7 +43,7 @@ under the License.
         <maven.compiler.target>1.8</maven.compiler.target>
         <jprotobuf.version>2.4.12</jprotobuf.version>
         <log4j.version>2.17.1</log4j.version>
-        <jackson.version>2.12.6</jackson.version>
+        <jackson.version>2.13.4</jackson.version>
         <spark.version>2.4.6</spark.version>
         <tomcat.version>8.5.70</tomcat.version>
         <parquet.version>1.10.1</parquet.version>
@@ -463,7 +463,7 @@ under the License.
             <dependency>
                 <groupId>org.yaml</groupId>
                 <artifactId>snakeyaml</artifactId>
-                <version>1.26</version>
+                <version>1.31</version>
             </dependency>
 
             <!-- https://mvnrepository.com/artifact/javax.validation/validation-api -->
