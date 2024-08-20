@@ -44,12 +44,12 @@ under the License.
         <jprotobuf.version>2.4.12</jprotobuf.version>
         <log4j.version>2.17.1</log4j.version>
         <jackson.version>2.12.6</jackson.version>
-        <spark.version>2.4.6</spark.version>
+        <spark.version>3.3.0</spark.version>
         <tomcat.version>8.5.70</tomcat.version>
         <parquet.version>1.10.1</parquet.version>
-        <hadoop.version>3.3.0</hadoop.version>
+        <hadoop.version>3.3.3</hadoop.version>
         <skip.plugin>false</skip.plugin>
-        <hudi.version>0.10.0</hudi.version>
+        <hudi.version>0.11.0</hudi.version>
     </properties>
 
     <profiles>
@@ -154,7 +154,7 @@ under the License.
             <dependency>
                 <groupId>commons-codec</groupId>
                 <artifactId>commons-codec</artifactId>
-                <version>1.13</version>
+                <version>1.14</version>
             </dependency>
 
             <!-- https://mvnrepository.com/artifact/commons-lang/commons-lang -->
@@ -364,7 +364,7 @@ under the License.
             <dependency>
                 <groupId>org.apache.thrift</groupId>
                 <artifactId>libthrift</artifactId>
-                <version>0.13.0</version>
+                <version>0.17.0</version>
             </dependency>
 
             <!-- https://mvnrepository.com/artifact/org.apache.logging.log4j/log4j-api -->
