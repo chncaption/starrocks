@@ -49,7 +49,7 @@ under the License.
         <parquet.version>1.10.1</parquet.version>
         <hadoop.version>3.3.0</hadoop.version>
         <skip.plugin>false</skip.plugin>
-        <hudi.version>0.10.0</hudi.version>
+        <hudi.version>1.0.1</hudi.version>
     </properties>
 
     <profiles>
